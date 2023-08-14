@@ -14,13 +14,13 @@
  [aliounealdembaseck@gmail.com](mailto:aliounealdembaseck@gmail.com), 
  
 
-- 📞 🇸🇳  [+221772245684](tel:+221772245684)
+<!-- - 📞 🇸🇳  [+221772245684](tel:+221772245684) -->
 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/alioune-a-seck-896910223/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40"/></a>
-<a href="https://wa.me/+221772245684" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="whatsapp" height="30" width="40"/></a>
+<!-- <a href="https://wa.me/+221772245684" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="whatsapp" height="30" width="40"/></a> -->
 <a href="https://stackoverflow.com/users/17654152/seck" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="stackoverflow" height="30" width="40" /></a>
 <!--<a href="https://codepen.io/khadimniass" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="codepen" height="30" width="40" /></a>-->
 
