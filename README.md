@@ -41,7 +41,9 @@
 <img style="width:100px; height:3%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" />
 <img style="width:100px; height:3%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" tittle="javascript"/>
 <img style="width:100px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" alt="angularjs" tille="angularjs"/>
-<img style="width:100px; height:3%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" tittle="laravel"/>
+<!--<img style="width:100px; height:3%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" tittle="laravel"/>-->
+ <img style="width:100px; height: auto;" src="https://laravel.com/img/logomark.min.svg" alt="Laravel" title="Laravel">
+
 <img style="width:70px;"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/symfony/symfony-original-wordmark.svg" alt="symfony" tittle="symfony" />
 <img style="width:100px; height:3%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" alt="java" tittle="java"/>
 <img style="width:100px; height:3%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" tittle="github"/>
