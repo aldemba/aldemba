@@ -84,7 +84,8 @@
 
  ![Contributions GitHub](https://github-readme-stats.vercel.app/api?username=aldemba&custom_title=Contributions%20GitHub&show_icons=true&locale=fr&count_private=true&hide=stars,issues&bg_color=0d1117&hide_border=true&icon_color=52BFEA&text_color=FFF&title_color=52BFEA)
 
- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=aldemba&hide_border=true&locale=fr&background=0d1117&ring=52BFEA&stroke=52BFEA&fire=52BFEA&sideNums=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF&currStreakNum=FFFFFF)](https://https//github.com/aldemba) -->
+ <!--[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com user=aldemba&hide_border=true&locale=fr&background=0d1117&ring=52BFEA&stroke=52BFEA&fire=52BFEA&sideNums=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF&currStreakNum=FFFFFF)](https://https//github.com/aldemba) -->
+ [![GitHub Streak](https://streak-stats.demolab.com/?user=aldemba)](https://git.io/streak-stats)
  <!-- <img height="137px" src="https://github-readme-stats.vercel.app/api?username=aldemba&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /> -->
 
  # GitHub Statistics
