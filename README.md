@@ -1,4 +1,4 @@
-- <h1>👋 Hi, I’m Alioune SECK ✨ </h1>
+- <h1>👋 Hey, I’m Alioune SECK ✨ </h1>
 <!-- <a href="https://sonatel.sn/orange-finances-mobiles-senegal-et-baobab-senegal-institution-de-microfinances-innovent-et-proposent-du-credit-et-de-lepargne-par-orange-money/">
 <img src="imgs/ofms.jpeg" align="center" width="40"></a> -->
 
