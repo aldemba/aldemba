@@ -2,9 +2,9 @@
 <!-- <a href="https://sonatel.sn/orange-finances-mobiles-senegal-et-baobab-senegal-institution-de-microfinances-innovent-et-proposent-du-credit-et-de-lepargne-par-orange-money/">
 <img src="imgs/ofms.jpeg" align="center" width="40"></a> -->
 
-- 🔭 I’m currently working with `PHP`, `Javascript`, `intégration API`
+- 🔭 I’m currently working with PHP, JavaScript, and API integration.
 
-- 👀💞️ I’m interested in  web developer backend or fullstack
+- 👀💞️ I’m interested in backend or fullstack web development.
 
 <!-- 👨‍💻 my profile [khadimniass.me](https://khadimniass.me#projet) -->
 
